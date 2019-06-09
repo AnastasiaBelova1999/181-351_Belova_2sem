@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/registration.o
+release/admin_page.o
+release/user_page.o
+release/crypto.o
+release/TinyAes.o
+release/moc_mainwindow.o
+release/moc_Crypter.o
+release/moc_registration.o
+release/moc_admin_page.o
+release/moc_user_page.o
